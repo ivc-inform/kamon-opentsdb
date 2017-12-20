@@ -1,2 +1,2 @@
-lazy val root: Project = project.in(file(".")).dependsOn(RootProject(uri("git://github.com/kamon-io/kamon-sbt-umbrella.git")))
+//lazy val root: Project = project.in(file(".")).dependsOn(RootProject(uri("https://github.com/ivc-inform/kamon-sbt-umbrella.git")))
 
